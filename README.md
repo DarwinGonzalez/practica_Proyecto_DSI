@@ -1,4 +1,8 @@
 # PracticaProyectoDSI
 Repositorio práctica grupal DSI Proyecto final
 
-PRobando ...
+##Componentes del Grupo:
+* Darwin González Suárez
+* Cristina González Pacheco
+* Javier Castro González
+* Daniel Alberto Melián León
