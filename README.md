@@ -1,2 +1,2 @@
 # PracticaProyectoDSI
-Repositorio práctica grupal DSI
+Repositorio práctica grupal DSI Proyecto final
