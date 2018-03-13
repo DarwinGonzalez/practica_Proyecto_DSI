@@ -1,6 +1,11 @@
 # PracticaProyectoDSI
 Repositorio práctica grupal DSI Proyecto final
 
+# The Snake Game
+![Snake](https://github.com/DarwinGonzalez/PracticaProyectoDSI/blob/master/img/1f40d.png?raw=true)
+
+Implementación del juego de la serpiente utilizando JavaScript.
+
 ## Componentes del Grupo:
 * Darwin González Suárez
 * Cristina González Pacheco
