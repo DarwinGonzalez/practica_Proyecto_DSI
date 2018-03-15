@@ -1,3 +1,7 @@
+body{
+  background-color: #7CFF5B;
+}
+
 #home {
       width: 350px;
       height: 350px;
@@ -34,4 +38,16 @@
     .game {
       margin: 0 auto;
     }
+
+div#tablero{
+  display:flex;
+  justify-content:center;
+  flex-direction:column;
+  flex-wrap:wrap;
+  align-items: center;
+}
+
+canvas{
+  border: thick inset green;
+}
 
