@@ -11,6 +11,7 @@ btn.addEventListener("click", function(){ drawModule.init();});
 
         switch(keyCode) {
         
+        // Flecha Izquierda
         case 37: 
           if (direction != 'right') {
             direction = 'left';
@@ -18,6 +19,15 @@ btn.addEventListener("click", function(){ drawModule.init();});
           console.log('left'); 
           break;
 
+        // Izquierda: tecla A
+        case 65: 
+          if (direction != 'right') {
+            direction = 'left';
+          }
+          console.log('left'); 
+          break; 
+
+        // Flecha Derecha
         case 39:
           if (direction != 'left') {
           direction = 'right';
@@ -25,6 +35,15 @@ btn.addEventListener("click", function(){ drawModule.init();});
           }
           break;
 
+         // Derecha: tecla D
+        case 68:
+          if (direction != 'left') {
+          direction = 'right';
+          console.log('right');
+          }
+          break;
+
+         // Flecha Arriba
         case 38:
           if (direction != 'down') {
           direction = 'up';
@@ -32,12 +51,30 @@ btn.addEventListener("click", function(){ drawModule.init();});
           }
           break;
 
+          // Arriba: tecla W
+        case 87:
+          if (direction != 'down') {
+          direction = 'up';
+          console.log('up');
+          }
+          break;
+
+         // Flecha Abajo
         case 40:
           if (direction != 'up') {
           direction = 'down';
           console.log('down');
           }
           break;
+
+         // Abajo: tecla S
+        case 83:
+          if (direction != 'up') {
+          direction = 'down';
+          console.log('down');
+          }
+          break;
+
           }
       }
 
