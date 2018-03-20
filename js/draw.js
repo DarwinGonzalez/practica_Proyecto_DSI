@@ -71,6 +71,7 @@ var drawModule = (function () {
 
           gamePanel.clearRect(0,0,width,height);
           gameloop = clearInterval(gameloop);
+          score = 0;
           return;          
         }
         
