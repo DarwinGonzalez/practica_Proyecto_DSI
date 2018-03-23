@@ -2,7 +2,7 @@
 Repositorio práctica grupal DSI Proyecto final
 
 # The Snake Game
-![Snake](https://github.com/DarwinGonzalez/PracticaProyectoDSI/blob/master/img/snake.png?raw=true)
+![Snake](https://github.com/DarwinGonzalez/PracticaProyectoDSI/blob/master/public/img/snake.png?raw=true)
 
 Implementación del juego de la serpiente utilizando JavaScript.
 
