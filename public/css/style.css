@@ -1,10 +1,14 @@
 body{
-  background-color: #7CFF5B;
+  background-color: #154360;
+}
+
+h1{
+  color:red;
 }
 
 #home {
-      width: 350px;
-      height: 350px;
+      width: 550px;
+      height: 470px;
       background-image: url('../img/snake.png');
       background-size: auto 350px;
       background-repeat: no-repeat;
@@ -48,6 +52,6 @@ div#tablero{
 }
 
 canvas{
-  border: thick inset green;
+  border:1px solid red;
 }
 

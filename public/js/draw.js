@@ -3,11 +3,10 @@ var boardPanel = document.getElementById('boardPanel');
 var gamePanel = boardPanel.getContext('2d');
 var btn = document.getElementById('btn');
 var snakeSize = 10; 
-var width = 350;
-var height = 350;
+var width = 550;
+var height = 470;
 var score = 0;
 var snake;
-var snakeSize = 10;
 var food;
 
 var drawModule = (function () { 
