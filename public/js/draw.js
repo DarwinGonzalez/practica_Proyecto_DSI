@@ -31,7 +31,7 @@ var drawModule = (function () {
   var scoreText = function() {
     var score_text = "Score: " + score;
     gamePanel.fillStyle = 'blue';
-    gamePanel.fillText(score_text, 145, height-5);
+    gamePanel.fillText(score_text, 255, height-5);
   }
 
   //Función que va aumentando el tamaño de la serpiente a medida que come
