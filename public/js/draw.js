@@ -96,6 +96,7 @@ var drawModule = (function () {
         scoreText();
   }
 
+
   //Función que crea la comida manzana dandole una posición aleatoria dentro de las dimensiones posibles
   var createFood = function() {
       food = {
